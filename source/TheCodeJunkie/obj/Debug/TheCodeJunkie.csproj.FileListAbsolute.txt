@@ -1,0 +1,5 @@
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie\bin\Debug\TheCodeJunkie.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie\bin\Debug\TheCodeJunkie.pdb
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie\obj\Debug\TheCodeJunkie.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie\obj\Debug\TheCodeJunkie.pdb

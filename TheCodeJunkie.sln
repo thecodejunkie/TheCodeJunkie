@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{F48A8883-D724-4E8E-9AF3-5206CC890DA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{135F3074-D4CF-4DE3-B7EB-B210867D2523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCodeJunkie", "source\TheCodeJunkie\TheCodeJunkie.csproj", "{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCodeJunkie.Tests", "source\TheCodeJunkie.Tests\TheCodeJunkie.Tests.csproj", "{7242486E-A786-4330-9C8C-DB9C438A5D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7242486E-A786-4330-9C8C-DB9C438A5D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7242486E-A786-4330-9C8C-DB9C438A5D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7242486E-A786-4330-9C8C-DB9C438A5D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7242486E-A786-4330-9C8C-DB9C438A5D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{706BE747-6BB6-4D57-B86C-02E5E8DF0DE4} = {F48A8883-D724-4E8E-9AF3-5206CC890DA3}
+		{7242486E-A786-4330-9C8C-DB9C438A5D17} = {135F3074-D4CF-4DE3-B7EB-B210867D2523}
+	EndGlobalSection
+EndGlobal

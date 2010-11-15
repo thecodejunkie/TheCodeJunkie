@@ -1,0 +1,11 @@
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\TheCodeJunkie.Tests.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\TheCodeJunkie.Tests.pdb
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\TheCodeJunkie.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\xunit.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\xunit.extensions.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\TheCodeJunkie.pdb
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\xunit.xml
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\bin\Debug\xunit.extensions.xml
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\obj\Debug\TheCodeJunkie.Tests.dll
+D:\My Dropbox\Development\Repositories\TheCodeJunkie\source\TheCodeJunkie.Tests\obj\Debug\TheCodeJunkie.Tests.pdb
